@@ -1,0 +1,2 @@
+cd "C:\Users\Luis Anthony\Downloads\demo_f3"
+py app.py
